@@ -37,5 +37,5 @@ The script safely handles:
 - Failed HTTP responses
 
 ## Files Included
-- fetch_users.py
+- fetch_script.py
 - README.md
