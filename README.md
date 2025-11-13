@@ -18,10 +18,14 @@ It also includes a condition to print only users whose city name starts with the
 - requests library
 
 Install the dependency:
+```
 pip install requests
+```
 
 ## How to Run
-python fetch_users.py
+```
+python fetch_script.py
+```
 
 The script will fetch users from the API and print only those whose city begins with “S”.
 
